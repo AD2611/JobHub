@@ -1,0 +1,7 @@
+download or clone the project
+got to the project folder
+start your virtual environment. If you hav not installed install pipenv .Google how to install pipenv
+To start virtual Environment Run command : pipenv shell
+Then install all requirements : pipenv shell
+Go to project directory : cd jobHub
+Run command : python manage.py runserver
